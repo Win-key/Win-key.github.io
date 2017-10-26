@@ -1,0 +1,85 @@
+body{
+	font-family: 'Signika', sans-serif;
+	font-size: 16px;
+	color: #020e2f;
+	background: url(https://image.freepik.com/free-vector/green-hills-at-daytime-with-blue-sky_1639-331.jpg);
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100%;
+}
+.row{
+	padding: 15px;
+}
+#cntr{
+	padding: 50px;
+}
+.j2{
+	padding: 20px;
+	border-radius: 20px;
+	border: 1px solid rgba(49, 163, 212, 0.6);
+	height: 150px;
+	background-color: #60c2ec;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+}
+#padpic{
+	padding-top: 7px;
+}
+th,td{
+	text-align: center;
+}
+#table{
+	background-color: #60c2ec;
+}
+h3{
+	background-color: #60c2ec;
+	border: 1px solid rgba(49, 163, 212, 0.6);
+	border-radius: 15px;
+	padding: 5px;
+	margin: 5px;
+	display: inline;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+}
+.tab{
+	padding-left: 5em;
+}
+hr{
+    border: 0;
+    color: #020e2f;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+.adr{
+	padding-left: 1.5em;
+}
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+    border-radius: 5px;
+}
+a:focus, a:hover {
+    color: #b45f2a;
+    text-decoration: underline;
+}
+a{
+	color: #020e2f;
+}
+blockquote, blockquote footer {
+	border:none;
+	color: #020e2f;
+}
+.thumbnail{
+	background-color: #60c2ec;
+	border-radius: 25%;
+}
+#bdr{
+	border-radius: 25%;
+}
